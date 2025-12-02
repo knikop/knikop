@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 In Winter of 2024, I completed my DEC in Computer Science Technology at Vanier College in Montreal, Quebec. I dedicated almost 4 years to learning the ins and outs of  software development and other related studies. 
 
 Over these years I studied various aspects of Computer Science such as:
-  Software Development (Java, C#, Python, and more)
-  Network Design and Administration
-  Database Design and Administration (SQL, phpmyadmin, noSQL such as Firebase, etc.)
-  IoT Systems Design
-  App Development for Android and Windows
-  Unix systems use and manipulation
-  Web Development (HTML, CSS, JavaScript, PHP)
-  Game Development in Unity
-  Cybersecurity
+   - Software Development (Java, C#, Python, and more)
+   - Network Design and Administration
+   - Database Design and Administration (SQL, phpmyadmin, noSQL such as Firebase, etc.)
+   - IoT Systems Design
+   - App Development for Android and Windows
+   - Unix systems use and manipulation
+   - Web Development (HTML, CSS, JavaScript, PHP)
+   - Game Development in Unity
+   - Cybersecurity
 
 
 # 💻 Programming Languages and Tech Skills:
