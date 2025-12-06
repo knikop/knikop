@@ -37,7 +37,7 @@ Over these years I studied various aspects of Computer Science such as:
   <a href="https://www.linkedin.com/in/konstantinos-nikopoulos-15240b399/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://github.com/knikop" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
   </a>
 </p>
