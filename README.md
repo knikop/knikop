@@ -16,7 +16,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-In Winter of 2024, I completed my DEC in Computer Science Technology at Vanier College in Montreal, Quebec. I dedicated almost 4 years to learning the ins and outs of software development and other related studies.<br><br>Over these years I studied various aspects of Computer Science such as:<br><br>Software Development (Java, C#, Python, and more)<br>Network Design and Administration<br>Database Design and Administration (SQL, phpmyadmin, noSQL such as Firebase, etc.)<br>IoT Systems Design<br>App Development for Android and Windows<br>Unix systems use and manipulation<br>Web Development (HTML, CSS, JavaScript, PHP)<br>Game Development in Unity<br>Cybersecurity
+In Winter of 2024, I completed my DEC in Computer Science Technology at Vanier College in Montreal, Quebec. I dedicated almost 4 years to learning the ins and outs of software development and other related studies.<br><br>Over these years I studied various aspects of Computer Science such as:
+<br>
+<ul>
+  <li> <br>Software Development (Java, C#, Python, and more) </li>
+  <li><br>Software Development (Java, C#, Python, and more)  </li>
+  <li><br>Network Design and Administration </li>
+  <li><br>Database Design and Administration (SQL, phpmyadmin, noSQL such as Firebase, etc.) </li>
+  <li><br>IoT Systems Design </li>
+  <li><br>App Development for Android and Windows </li>
+  <li><br>Unix systems use and manipulation </li>
+  <li><br>Web Development (HTML, CSS, JavaScript, PHP) </li>
+  <li><br>Game Development in Unity </li>
+  <li><br>Cybersecurity </li>
+</ul>
+
 
 
 ## 🌐 Socials:
