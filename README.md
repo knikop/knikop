@@ -54,8 +54,8 @@ In Winter of 2024, I completed my DEC in Computer Science Technology at Vanier C
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=knikop&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<!--![](https://github-contributor-stats.vercel.app/api?username=knikop&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=knikop&icon=0&color=4)](https://visitcount.itsvg.in)
 
