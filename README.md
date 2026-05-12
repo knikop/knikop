@@ -45,7 +45,7 @@ In Winter of 2026, I started an ACS in Artificial Intelligence and Data Science 
   <li>Descriptive Statistics (Jupyter, Anaconda, SQLite, SQL) </li>
   <li>Unsupervised Machine Learning </li>
   <li>AI Model Development </li>
-  <li>Data Minins </li>
+  <li>Data Mining </li>
   <li>AI Development </li>
 </ul>
 
