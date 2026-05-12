@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-In Winter of 2024, I completed my DEC in Computer Science Technology at Vanier College in Montreal, Quebec. I dedicated almost 4 years to learning the ins and outs of software development and other related studies.<br><br>Over these years I studied various aspects of Computer Science such as:
+In Winter of 2024, I completed my DEC in Computer Science Technology at Vanier College in Montreal, Quebec. I dedicated almost 4 years to learning the ins and outs of software development and other related studies.
+<br>
+<br>
+Over these years I studied various aspects of Computer Science such as:
 <br>
 <br>
 <ul>
-  <li>Software Development (Java, C#, Python, and more) </li>
   <li>Software Development (Java, C#, Python, and more)  </li>
   <li>Network Design and Administration </li>
   <li>Database Design and Administration (SQL, phpmyadmin, noSQL such as Firebase, etc.) </li>
@@ -32,7 +34,20 @@ In Winter of 2024, I completed my DEC in Computer Science Technology at Vanier C
   <li>Cybersecurity </li>
 </ul>
 
-
+<br>
+<br>
+In Winter of 2026, I started an ACS in Artificial Intelligence and Data Science at Vanier College. The following are some aspects of AI that will be studied:
+<br>
+<br>
+<ul>
+  <li>Introduction to Data Science and Machine Learning (Jupyter, Python and more) </li>
+  <li>Machine Learning for Data Diagnostics (Jupiter, Python and more) </li>
+  <li>Descriptive Statistics (Jupyter, Anaconda, SQLite, SQL) </li>
+  <li>Unsupervised Machine Learning </li>
+  <li>AI Model Development </li>
+  <li>Data Minins </li>
+  <li>AI Development </li>
+</ul>
 
 ## 🌐 Socials:
 <p>
