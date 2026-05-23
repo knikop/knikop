@@ -36,7 +36,7 @@ Over these years I studied various aspects of Computer Science such as:
 
 <br>
 <br>
-In Winter of 2026, I started an ACS in Artificial Intelligence and Data Science at Vanier College. The following are some aspects of AI that I have or that I will be studying:
+In Winter of 2026, I started an AEC in Artificial Intelligence and Data Science at Vanier College. The following are some aspects of AI that I have or that I will be studying:
 <br>
 <br>
 <ul>
