@@ -41,7 +41,7 @@ In Winter of 2026, I started an AEC in Artificial Intelligence and Data Science 
 <br>
 <ul>
   <li>Introduction to Data Science and Machine Learning (Jupyter, Python and more) </li>
-  <li>Machine Learning for Data Diagnostics (Jupiter, Python and more) </li>
+  <li>Machine Learning for Data Diagnostics (Jupiter, Python, Machine Learning and more) </li>
   <li>Descriptive Statistics (Jupyter, Anaconda, SQLite, SQL) </li>
   <li>Unsupervised Machine Learning </li>
   <li>AI Model Development </li>
